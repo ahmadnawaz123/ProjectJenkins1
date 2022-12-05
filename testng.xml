@@ -3,6 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="jenkins.Testcase5"/>
       <class name="jenkins.Testcase4"/>
       <class name="jenkins.Testcase3"/>
       <class name="jenkins.Testcase2"/>
